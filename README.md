@@ -1,4 +1,4 @@
-# wp-vue-starter
+# WordPress with Vue
 
 ## Walkthrough Video
 
